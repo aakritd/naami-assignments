@@ -16,7 +16,7 @@ Generate a randomized expansion of the mask between the original boundary and th
 Identify the lowest medial and lateral points on the tibial surface in a selected axial slice. The detected landmarks are visualized for validation and potential biomechanical analysis.
 
 🧰 Tools and Technologies
-Language: Python 3.10
+Language: Python
 
 Platform: Jupyter Notebook
 
