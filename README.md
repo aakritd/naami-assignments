@@ -1,4 +1,4 @@
-🦴 Knee CT Bone Segmentation Project
+🦴 CT Bone Segmentation Project
 📌 Overview
 This project focuses on automatic segmentation and analysis of bones in 3D CT volumes of the knee region. It involves four key subtasks that include image processing-based bone segmentation, mask expansion, randomized contour generation, and anatomical landmark detection. The project works with .nii.gz medical imaging data and aims to support downstream tasks like surgical planning or AI model development.
 
